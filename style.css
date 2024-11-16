@@ -100,7 +100,7 @@ body {
     background-repeat: no-repeat;
 }
 
-.nav {
+nav {
   position: fixed;
   isolation: isolate;
   top: 0;
@@ -206,7 +206,7 @@ body {
 }
 
 .input__group span{
-  font-size: 1.75rem;
+    font-size: 1.75rem;
     color: var(--primary-color);
 }
 
@@ -385,7 +385,6 @@ body {
   color: #fb7185;
   background-color: #ffe4e6;
 }
-
 
 .banner__content{
   padding: 2rem;
